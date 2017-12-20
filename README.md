@@ -12,10 +12,10 @@ This repo contains all my work for the Deep Learning Specialization offered by d
 
 - Course 1: Neural Networks and Deep Learning
 
-  - [Week 2 - Progamming Assignment 1 - Logistic Regression with a Neural Network mindset]()
-  - [Week 3 - Progamming Assignment 2 - Planar data classification with one hidden layer]()
-  - [Week 4 - Progamming Assignment 3 - Building your Deep Neural Network: Step by Step¶]()
-  - [Week 4 - Progamming Assignment 4 - Deep Neural Network for Image Classification: Application]()
+  - [Week 2 - Progamming Assignment 1 - Logistic Regression with a Neural Network mindset](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20Mindset.ipynb)
+  - [Week 3 - Progamming Assignment 2 - Planar data classification with one hidden layer](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Planar%20Data%20Classification%20with%20One%20Hidden%20Layer.ipynb)
+  - [Week 4 - Progamming Assignment 3 - Building your Deep Neural Network: Step by Step](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Building%20Your%20Deep%20Neural%20Network%20-Step%20by%20Step.ipynb)
+  - [Week 4 - Progamming Assignment 4 - Deep Neural Network for Image Classification: Application](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-Application.ipynb)
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
