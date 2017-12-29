@@ -27,7 +27,7 @@ This repo contains all my work for the Deep Learning Specialization offered by d
 
 - Course 3: Structuring Machine Learning Projects
 
-  - There is no PA for this course.
+  - There is no programming assignment for this course.
   
 - Course 4: Convolutional Neural Networks
 
