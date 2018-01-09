@@ -22,7 +22,7 @@ This repo contains all my work for the Deep Learning Specialization offered by d
   - [Week 1 - Progamming Assignment 1 - Initialization](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%202%20-%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20Tuning-%20Regularization%20and%20Optimization/Initialization.ipynb)
   - [Week 1 - Progamming Assignment 2 - Regularization](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%202%20-%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20Tuning-%20Regularization%20and%20Optimization/Regularization.ipynb)
   - [Week 1 - Progamming Assignment 3 - Gradient Checking](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%202%20-%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20Tuning-%20Regularization%20and%20Optimization/Gradient%2BChecking.ipynb)
-  - [Week 2 - Progamming Assignment 4 - Optimization Methods]()
+  - [Week 2 - Progamming Assignment 4 - Optimization Methods](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%202%20-%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20Tuning-%20Regularization%20and%20Optimization/Optimization%2BMethods.ipynb)
   - [Week 3 - Progamming Assignment 5 - TensorFlow Tutorial]()
 
 - Course 3: Structuring Machine Learning Projects
