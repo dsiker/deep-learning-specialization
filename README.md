@@ -31,8 +31,8 @@ This repo contains all my work for the Deep Learning Specialization offered by d
   
 - Course 4: Convolutional Neural Networks
 
-  - [Week 1 - Progamming Assignment 1 - Convolutional Model: step by step]()
-  - [Week 1 - Progamming Assignment 2 - Convolutional Model: application]()
+  - [Week 1 - Progamming Assignment 1 - Convolutional Model: step by step](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%204%20-%20Convolutional%20Neural%20Networks/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
+  - [Week 1 - Progamming Assignment 2 - Convolutional Model: application](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%204%20-%20Convolutional%20Neural%20Networks/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
   - [Week 2 - Progamming Assignment 1 - Keras - Tutorial - Happy House]()
   - [Week 2 - Progamming Assignment 2 - Residual Networks]()
   
