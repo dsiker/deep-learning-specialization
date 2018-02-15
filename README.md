@@ -33,6 +33,7 @@ This repo contains all my work for the Deep Learning Specialization offered by d
   - [Week 1 - Progamming Assignment 2 - Convolutional Model: application](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%204%20-%20Convolutional%20Neural%20Networks/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
   - [Week 2 - Progamming Assignment 1 - Keras - Tutorial - Happy House](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%204%20-%20Convolutional%20Neural%20Networks/Keras%20Tutorial%20-%20HappyHouse%20v2.ipynb)
   - [Week 2 - Progamming Assignment 2 - Residual Networks](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%204%20-%20Convolutional%20Neural%20Networks/Residual%20Networks%20v2.ipynb)
+  - [Week 3 - Progamming Assignment 1 - Car Detection with YOLO](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%204%20-%20Convolutional%20Neural%20Networks/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv1.ipynb)
   
 - Course 5: Sequence Models
 
