@@ -38,4 +38,6 @@ This repo contains all my work for the Deep Learning Specialization offered by d
   - [Week 4 - Progamming Assignment 2 - Face Recognition for the Happy House](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%204%20-%20Convolutional%20Neural%20Networks/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
   
 - Course 5: Sequence Models
-
+- [Week 1 - Progamming Assignment 1 - Building a Recurrent Neural Network: step by step](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%205%20-%20Sequence%20Models/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
+- [Week 1 - Progamming Assignment 2 - Dinosaur Island: Character Level Language Modeling](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%205%20-%20Sequence%20Models/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
+- [Week 1 - Progamming Assignment 3 - Jazz Improvisation with LSTM](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%205%20-%20Sequence%20Models/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv1.ipynb)
