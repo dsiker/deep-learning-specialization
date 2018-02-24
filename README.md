@@ -44,4 +44,4 @@ This repo contains all my work for the Deep Learning Specialization offered by d
   - [Week 2 - Progamming Assignment 1 - Operations on Word Vectors](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%205%20-%20Sequence%20Models/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
   - [Week 2 - Progamming Assignment 2 - Emojify](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%205%20-%20Sequence%20Models/Emojify%2B-%2Bv2.ipynb)
   - [Week 3 - Progamming Assignment 1 - Neural Machine Translation with Attention](https://github.com/dsiker/deep-learning-specialization/blob/master/Part%205%20-%20Sequence%20Models/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv3.ipynb)
-  - [Week 3 - Progamming Assignment 2 - Trigger Word Detection](Too big to attach)
+  - Week 3 - Progamming Assignment 2 - Trigger Word Detection (Too big to attach)
